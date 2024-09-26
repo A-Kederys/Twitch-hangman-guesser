@@ -7,7 +7,9 @@ The bot filters Twitch emotes based on length and specific letter positions, ass
 
 ![Project Demo Terminal](showcase/demo1.png)
 
-![Project Demo Twitch-chat](showcase/demo2.png)
+![Project Demo Twitch-chat1](showcase/demo2.png)
+
+![Project Demo Twitch-chat2](showcase/demo3.png)
 
 ## Features
 
